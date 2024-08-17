@@ -4,6 +4,10 @@
     <string name="password">Şifre</string> <!--Password-->
     <string name="password_or_email_is_wrong">Şifre ya da e-posta hatalı girildi.</string> <!--Your password or e-mail address is wrong.-->
     <string name="log_in">Giriş yap</string> <!--Log in-->
+    <string name="home">Ana Sayfa</string> <!--Home-->
+    <string name="profile">Profil</string> <!--Profile-->
+    <string name="add_new">İnceleme Ekle</string> <!--Add New Critic-->
+
 
 
 </resources>

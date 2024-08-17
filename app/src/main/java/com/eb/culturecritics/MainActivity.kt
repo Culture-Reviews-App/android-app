@@ -9,7 +9,7 @@ import androidx.compose.ui.graphics.toArgb
 import androidx.core.view.WindowCompat
 import androidx.core.view.WindowInsetsControllerCompat
 import com.eb.culturecritics.ui.theme.CultureCriticsTheme
-import com.eb.culturecritics.view.home.HomeScreen
+import com.eb.culturecritics.view.MainScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -20,7 +20,7 @@ class MainActivity : ComponentActivity() {
         window.statusBarColor = Color.Transparent.toArgb()
         setContent {
             CultureCriticsTheme {
-                HomeScreen()
+                MainScreen()
             }
         }
     }
