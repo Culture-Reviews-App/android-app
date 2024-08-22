@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Culture Critics"
+rootProject.name = "Culture Reviews"
 include ':app'
